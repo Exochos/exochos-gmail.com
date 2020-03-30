@@ -1,2 +1,2 @@
-# exochos-gmail.com
-ITC Spring Quarter
+# Jeremy Ward 
+# ITC Spring Quarter
